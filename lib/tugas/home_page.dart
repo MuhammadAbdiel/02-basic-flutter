@@ -35,23 +35,23 @@ class HomePage extends StatelessWidget {
               children: const [
                 Image(
                   image: AssetImage('assets/images/mbappe.jpeg'),
-                  height: 160,
+                  height: 145,
                 ),
                 Image(
                   image: AssetImage('assets/images/messi.jpg'),
-                  height: 160,
+                  height: 145,
                 ),
                 Image(
                   image: AssetImage('assets/images/ronaldo.jpg'),
-                  height: 160,
+                  height: 145,
                 ),
                 Image(
                   image: AssetImage('assets/images/salah.jpeg'),
-                  height: 160,
+                  height: 145,
                 ),
                 Image(
                   image: AssetImage('assets/images/ozil.jpg'),
-                  height: 160,
+                  height: 145,
                 ),
               ],
             ),
