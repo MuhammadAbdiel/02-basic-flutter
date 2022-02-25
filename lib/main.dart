@@ -29,8 +29,11 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        primarySwatch: Colors.red,
+      ),
       // title: 'Flutter Demo',
       // theme: ThemeData(
       //   primarySwatch: Colors.blue,
@@ -38,7 +41,7 @@ class MyApp extends StatelessWidget {
       // home: const MyHomePage(
       //   title: 'Contoh Date Picker',
       // ),
-      home: HomePage(),
+      home: const HomePage(),
     );
   }
 }

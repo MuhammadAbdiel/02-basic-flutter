@@ -71,7 +71,7 @@ class HomePage extends StatelessWidget {
               padding: const EdgeInsets.all(2),
               width: double.infinity,
               decoration: const BoxDecoration(
-                color: Colors.blue,
+                color: Colors.red,
               ),
             ),
             const SizedBox(height: 10),

@@ -13,7 +13,7 @@ class FootballPlayer extends StatelessWidget {
       padding: const EdgeInsets.all(30),
       width: double.infinity,
       decoration: const BoxDecoration(
-        color: Colors.blue,
+        color: Colors.red,
       ),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceAround,

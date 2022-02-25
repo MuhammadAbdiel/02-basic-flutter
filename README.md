@@ -33,5 +33,5 @@ Prodi : D3 Manajemen Informatika <br>
 
 ## Tugas
 
-![image.png](assets/images/24.png)
-![image.png](assets/images/25.png)
+![image.png](assets/images/26.png)
+![image.png](assets/images/27.png)
